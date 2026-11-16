@@ -7,13 +7,13 @@
 
 **Projeto:** TermoAtiva
 
-**Equipe:**  
-Jonathan Henrique da Silva — RM: 561139
-Musashi Nascimento Mabuti — RM: 559444 
-Marcos Vinicius Gonçalves Santos — RM: 560062
-Felipe Gimenes — RM: 99799
+**Equipe:**  <br>
+Jonathan Henrique da Silva — RM: 561139<br>
+Musashi Nascimento Mabuti — RM: 559444 <br>
+Marcos Vinicius Gonçalves Santos — RM: 560062<br>
+Felipe Gimenes — RM: 99799<br>
 
-**Repositório GitHub:** [Inserir link]
+**Repositório GitHub:** https://github.com/Quinhos/GS_Machine_Learning.git
 
 ## 1. Apresentação do projeto
 
