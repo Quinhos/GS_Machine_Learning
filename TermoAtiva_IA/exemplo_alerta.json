@@ -1,0 +1,12 @@
+{
+    "temperatura_ar_celsius": 33.9,
+    "umidade_relativa_ar": 54.0,
+    "hora_do_dia": 14,
+    "indice_calor_celsius": 39.568,
+    "score_modelo": 0.987744,
+    "alerta_ml": 0,
+    "alerta_noaa": 1,
+    "nivel_alerta_ambiental": 1,
+    "mensagem": "ALERTA TERMICO: considere uma pausa, procure sombra e pontos de hidratacao.",
+    "cenario": "Caso proximo ao limiar - Ariranha"
+}
